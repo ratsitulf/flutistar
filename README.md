@@ -25,11 +25,6 @@ Welcome to my little corner of the internet! This is where code meets curiosity,
 - Improved database performance by 40% — yes, I made SQL less boring.
 - Collaborated with teams across the globe without even leaving my room.
 
-## Projects Worth Mentioning
-
-- **Project A** – A fun project that solves a real problem.
-- **Project B** – Because who doesn’t love a good challenge?
-- **Project C** – This one almost broke the internet (but in a good way).
 
 *(Check out [my GitHub repos](https://github.com/flutistar?tab=repositories) for the full list.)*
 
