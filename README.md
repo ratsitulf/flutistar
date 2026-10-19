@@ -1,4 +1,4 @@
-# Hi, I'm Brandon Galli 👋
+# Hi, I'm Software Engineer 👋
 
 Welcome to my little corner of the internet! This is where code meets curiosity, coffee meets deadlines, and ideas meet reality (sometimes 😅).
 
@@ -25,8 +25,6 @@ Welcome to my little corner of the internet! This is where code meets curiosity,
 - Improved database performance by 40% — yes, I made SQL less boring.
 - Collaborated with teams across the globe without even leaving my room.
 
-
-*(Check out [my GitHub repos](https://github.com/flutistar?tab=repositories) for the full list.)*
 
 ## Fun Facts About Me
 
